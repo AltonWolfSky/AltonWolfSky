@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AltonWolfSky
 - 👀 I’m interested in IT Security, Economics, immigration to Canada and the Furry Fandom.
-- 🌱 I’m currently learning Economics
+- 🌱 I’m currently learning Economics and Accountancy
 
 <!---
 AltonWolfSky/AltonWolfSky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
